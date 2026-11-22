@@ -45,21 +45,21 @@ Duplicate IDs, duplicate rows, whitespace, casing, status and performance values
 
 **Before (raw)**
 
-![Raw data before cleaning](before_raw_data.png)
+![Raw data before cleaning](images/before_raw_data.png)
 
 **After (cleaned)**
 
-![Data after cleaning](after_cleaned_data.png)
+![Data after cleaning](images/after_cleaned_data.png)
 
 ## Department_Region and Phone
 
 **Before (raw)**
 
-![Department_Region and Phone before cleaning](before_department_phone.png)
+![Department_Region and Phone before cleaning](images/before_department_phone.png)
 
 **After (cleaned)**
 
-![Department and Region split, Phone removed](after_department_phone.png)
+![Department and Region split, Phone removed](images/after_department_phone.png)
 
 ## Judgement calls
 
