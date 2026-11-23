@@ -15,6 +15,7 @@ MySQL Workbench
 
 ## How to run 
 run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 05
+
 **NB:** Run the scripts in order.
 
 ## Dataset
