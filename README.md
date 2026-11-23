@@ -6,6 +6,9 @@ Cleaning a messy 1,020-row employee dataset into an analysis-ready table using M
 
 Take a raw HR export with mixed data types, placeholder text and combined fields, and produce a typed, validated `employees` table that can be queried reliably.
 
+## Source 
+https://www.kaggle.com/datasets/desolution01/messy-employee-dataset
+
 ## Tools
 
 MySQL Workbench
