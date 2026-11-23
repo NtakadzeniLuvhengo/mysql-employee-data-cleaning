@@ -15,6 +15,7 @@ MySQL Workbench
 
 ## How to run 
 run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 05
+**NB:** Run the scripts in order.
 
 ## Dataset
 
@@ -30,7 +31,6 @@ run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 0
 | `04_final_table.sql` | Build the typed `employees` table |
 | `05_validation.sql` | Verify counts, NULLs and ranges |
 
-**NB:** Run the scripts in order. Import the CSV with the Table Data Import Wizard between Part A and Part B of script 01.
 
 ## Issues found and fixes
 
