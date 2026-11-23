@@ -13,6 +13,9 @@ https://www.kaggle.com/datasets/desolution01/messy-employee-dataset
 
 MySQL Workbench
 
+## How to run 
+run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 05
+
 ## Dataset
 
 `Messy_Employee_dataset.csv`: 1,020 rows, 12 columns (ID, name, age, department/region, status, join date, salary, email, phone, performance score, remote work).
